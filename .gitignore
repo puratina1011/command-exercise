@@ -1,0 +1,3 @@
+.classファイルを無視するための記述
+*.class
+sample/
